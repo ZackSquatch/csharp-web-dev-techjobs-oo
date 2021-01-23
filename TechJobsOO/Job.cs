@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace TechJobsOO
 {
     public class Job
@@ -26,7 +27,6 @@ namespace TechJobsOO
             EmployerLocation = employerLocation;
             JobType = jobType;
             JobCoreCompetency = jobCoreCompetency;
-
         }
 
 
